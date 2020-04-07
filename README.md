@@ -5,13 +5,15 @@ Projeto de ventilador emergencial utilizando um Ressucitador manual (AMBU). Conf
 Nova versão já em fase de testes! Basicamente os mesmos componentes em um layout mais adequado.
 ![Veltimador_MarkII](https://github.com/paulohenriquemo/Mechanical-Ventilator/blob/master/Ventilador%20Mark%20II.jpg)
 
+
+Diagrama do sistema:
+![Ilustração de uso](https://github.com/paulohenriquemo/Mechanical-Ventilator/blob/master/Diagrama%20Ventilador%20Emergencial.jpg)
+
+
 Ilustração de uso:
 
 ![Ilustração de uso](https://github.com/paulohenriquemo/Mechanical-Ventilator/blob/master/Ilustra%C3%A7%C3%A3o.jpeg)
 
-
-Diagrama do sistema:
-![Ilustração de uso](https://github.com/paulohenriquemo/Mechanical-Ventilator/blob/master/Diagrama%20Ventilador%20Emergencial.jpg)
 
 Primeiro protótipo:
 

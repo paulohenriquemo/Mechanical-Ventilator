@@ -19,4 +19,4 @@ Primeiro protótipo:
 
 ![Primeiro Protótipo](https://github.com/paulohenriquemo/Mechanical-Ventilator/blob/master/Ventilador.jpeg)
 
-Mais detalhes do projeto podem ser vistos no link https://www.youtube.com/watch?v=aM1GizJvok0
+Mais detalhes do projeto podem ser vistos no link https://www.youtube.com/watch?v=9hXmWFq5Jxk&feature=youtu.be
